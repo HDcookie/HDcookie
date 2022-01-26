@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HDcookie
 - 👀 I’m interested in Minecraft Programing and the spigot api, as well as jda and Discord bots.  
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning java and JDA
 - 📫 If you need development join our discord.  https://discord.gg/Mmf4G3nsva
 
 <!---
